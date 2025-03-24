@@ -1,6 +1,4 @@
-=========
-LINUX
-=========
+=========LINUX=========
 
 
 1. Zainstaluj yt-dlp (dla debian/ubuntu dostępne w repo apt):
@@ -15,9 +13,7 @@ LINUX
 Plik start.cmd służy tylko do szybkiego uruchamiania progamu pod windowsem (pkt 5 sekscja WINDOWS). Pod linuxem zbędny. 
 
 
-===========
-WINDOWS
-===========
+===========WINDOWS===========
 
 
 1. Pobierz yt-dlp:
