@@ -36,6 +36,6 @@ https://github.com/BtbN/FFmpeg-Builds/releases
 4. Do uruchomienia programu będzie potrzebne środowisko uruchomieniowe pythona. Instalujemy je ze sklepu WINDOWS STORE w szukajce wpisując "python".
 
 5. Po pobraniu yt-dlp-menu.py, url.txt, start.cmd uruchamiamy z konsoli poleceniem:
-    python ./yt-dlp-menu.py    lub   python3 ./yt-dlp.menu.py   zależnie jaką wersje pythona posiadamy w systemie.
+    python ./yt-dlp-menu.py    lub   python3 ./yt-dlp-menu.py   zależnie jaką wersje pythona posiadamy w systemie.
 
 6. (OPCJONALNY) Można skorzystać z pliku start.cmd  - jako opcja szybkiego wywołania programu za pomocą CMD 2-klikiem - edytując poprawną ścieżkę do yt-dlp-menu.py w środku start.cmd
