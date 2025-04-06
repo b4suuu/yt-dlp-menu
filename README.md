@@ -20,7 +20,7 @@ Plik start.cmd służy tylko do szybkiego uruchamiania progamu pod windowsem (pk
 https://github.com/yt-dlp/yt-dlp
 
 2. Pobierz FFmpeg:
-https://github.com/BtbN/FFmpeg-Builds/releases
+https://github.com/BtbN/FFmpeg-Builds/releases lub https://www.gyan.dev/ffmpeg/builds/
 
 
 
